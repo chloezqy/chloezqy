@@ -2,7 +2,12 @@
 
 a design engineer who likes making things that feel alive.
 
-exploring the little space between design, code & human interaction. ✳
+exploring the little space between design, code & human interaction.
+
+<p>
+  <img src="assets/piggy-hello.svg" width="36" height="32" alt="A little pink pig, quietly blinking.">
+  <sup><em>powered by curiosity &amp; snacks</em></sup>
+</p>
 
 ### 🐷 currently eating my contributions...
 
